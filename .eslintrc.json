@@ -1,5 +1,5 @@
 {
-  "extends": "@Im-Dims",
+  "extends": "@Im-Dims", "@zansxart"
   "parserOptions": {
     "sourceType": "module",
     "project": "./tsconfig.json"
